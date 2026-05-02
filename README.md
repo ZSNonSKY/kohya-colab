@@ -4,7 +4,7 @@ Accessible Google Colab notebooks for Stable Diffusion Lora training, based on t
 
 | 🇬🇧 English
 |:--|:-:|:-:|
-| 🌟 **XL Lora Trainer** | [![Open in Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/hollowstrawberry/kohya-colab/blob/main/Lora_Trainer_XL.ipynb) | - |
+| 🌟 **XL Lora Trainer** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZSNonSKY/kohya-colab/blob/main/Lora_Trainer_XL.ipynb) | - |
 | **Lora making Guide** | [Click Here](https://civitai.com/models/22530) | - |
 | **Stable Diffusion guide** | [Click Here](https://huggingface.co/hollowstrawberry/stable-diffusion-guide/blob/main/README.md#index) | [Click Aquí](https://huggingface.co/hollowstrawberry/stable-diffusion-guide/blob/main/spanish.md#index) |
 
