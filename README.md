@@ -16,6 +16,6 @@ Accessible Google Colab notebooks for Stable Diffusion Lora training, based on t
 * Offers most parameters while setting useful values behind the scenes to keep it simple.
 * Allows you to optionally define multiple folders for training.
 * Uses the latest technologies to train quickly.
-* Works inside your Google Drive by default and connects easily with Dataset Maker.
+* Works inside your Google Drive by default
 
 &nbsp;
